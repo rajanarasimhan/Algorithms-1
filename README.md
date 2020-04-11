@@ -4,8 +4,8 @@ This repo will contain all the algorithms, design patterns in C++, paper reading
 
 ## Contents
 
-1. **Competitive-Programming**: This subfolder will contain implementations of algorithms commonly used in Competitive Programming OR in development.
-2. **CPP**: This subfolder will contain design patterns in Modern C++, samples on popularly used C++ features.
+1. <a href="https://github.com/BuffetCodes/Algorithms/tree/master/Competitive-Programming">Competitive-Programming</a>: This subfolder will contain implementations of algorithms commonly used in Competitive Programming OR in development.
+2. <a href="https://github.com/BuffetCodes/Algorithms/tree/master/CPP">CPP</a>: This subfolder will contain design patterns in Modern C++, samples on popularly used C++ features.
 
 ## FAQs
 
